@@ -133,7 +133,9 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![alt text](<WhatsApp Image 2025-12-23 at 9.17.24 AM.jpeg>)
+
+![logo png](https://github.com/user-attachments/assets/64316ee8-d2ff-4c76-9380-46349936e1cf)
+
 
 
 ## RESULT:
